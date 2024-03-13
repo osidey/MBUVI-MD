@@ -1,8 +1,8 @@
 {
   "name": "MBUVI-MD",
-  "description": "I am MBUVI-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "description": "I am MBUVI-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/254746440595",
   "logo": "https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
-  "keywords": ["whatsappbot", "MBUVIMD", "MBUVI MD bot", "MBUVI-MD", "MBUVIMDWhatsaooBot", "MBUVIWaBot","MBUVIMD","Mbuvi Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "MBUVIMD", "MBUVI MD bot", "MBUVI-MD", "MBUVIMDWhatsappBot", "MBUVIWaBot","MBUVIMD","Mbuvi Md Whatsapp Bot","multi device"],
   "success_url": "/mbuvi/",
   "app_url": "/mbuvi/",
   
