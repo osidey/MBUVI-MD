@@ -64,11 +64,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©MBUVI-ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ MBUVI-ᴍᴅ 』```", //*『 MBUVI TECH』*\n https://wa.me/254746440595"),
+  caption : process.env.CAPTION || "©MBUVI-MD" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ MBUVI-ᴍᴅ 』```", //*『 MBUVI TECH』*\n https://wa.me/254746440595"),
  
   author : process.env.PACK_AUTHER|| "MBUVI-MD",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "MBUVI-ᴍᴅ",
+  botname : process.env.BOT_NAME  || "MBUVI-MD",
   ownername:process.env.OWNER_NAME|| "It's MBUVI",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
